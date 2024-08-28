@@ -6,12 +6,12 @@ import styled, { ThemeContext } from 'styled-components';
 import endpoints from '../constants/endpoints';
 import ThemeToggler from './ThemeToggler';
 
-const styles = {
-  logoStyle: {
-    width: 50,
-    height: 40,
-  },
-};
+// const styles = {
+//   logoStyle: {
+//     width: 50,
+//     height: 40,
+//   },
+// };
 
 const ExternalNavLink = styled.a`
   color: ${(props) => props.theme.navbarTheme.linkColor};
@@ -62,7 +62,7 @@ const NavBar = () => {
       <Container>
         {data?.logo && (
           <Navbar.Brand href="/">
-            <img
+            {/* <img
               src={data?.logo?.source}
               className="d-inline-block align-top"
               alt="main logo"
@@ -71,7 +71,7 @@ const NavBar = () => {
                   ? { height: data?.logo?.height, width: data?.logo?.width }
                   : styles.logoStyle
               }
-            />
+            /> */}
           </Navbar.Brand>
         )}
         <Navbar.Toggle

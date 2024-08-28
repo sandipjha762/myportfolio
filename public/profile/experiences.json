@@ -1,33 +1,37 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Developer",
+            "subtitle": "TransUnion",
+            "workType": "Full-time (Bengaluru, India)",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Developed Validation Hub UI Template to display the statistical data for the past 10 years using React.JS and Google Charts.",
+                "Optimized web applications for performance, reducing load times and enhancing user experience using React hooks (useContext, useMemo), Redux and Debouncing method.",
+                "Designed and Implemented new components library that reduced development time for new features."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "Mar/2024 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Assossiate Developer",
+            "subtitle": "TransUnion",
+            "workType": "Full-time (Bengaluru, India)",
             "workDescription": [
-                "Worked on abc."
+                "Developed UI templates using HTML, CSS, Javascript and React.Js", 
+                "Removed Tablue integration from one of TransUnion’s products and developed our template for showing the data in chart and grid view form. that helps organizations to cost-cutting.",
+                "**Quarterly Performance Award (Q4 2023)** : Recognized for exceptional contribution to project success and team collaboration."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "Jan/2023 – Feb/2024"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Assosiate Software Engineer",
+            "companyURL": "https://www.home.neustar/",
+            "subtitle": "Neustar Inc",
+            "workType": "Full-time (Bengaluru, India)",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Designed and developed multiple features like Data Definition Module dashboard, Custom Workflow dashboard.",
+                "Developed and maintained reusable components using ReactJS to ensure efficient code management and scalability."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Jul/2021 – Dec/2022"
         }
     ]
 }
